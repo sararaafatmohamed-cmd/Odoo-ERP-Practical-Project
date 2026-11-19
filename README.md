@@ -44,35 +44,39 @@ This implementation provided an opportunity to explore website creation and appl
 
 The following screenshots document my practical work and exploration of the different Odoo modules.
 
+
+## 📸 Project Screenshots
+
 ### Accounting
-![Accounting](Screenshots/accounting.png)
+![Accounting](Screenshots/Accounting.png)
 
 ### Purchase
-![Purchase](Screenshots/purchase.png)
+![Purchase](Screenshots/Puchase.png)
 
 ### DoNight Website
-![DoNight Website](Screenshots/donight-website.png)
+![DoNight Website](Screenshots/DoNight%20Website.png)
 
 ### Sales
-![Sales](Screenshots/sales.png)
+![Sales](Screenshots/Saless.png)
 
 ### DoNight Website – Additional View
-![DoNight Website 2](Screenshots/donight-website-2.png)
+![DoNight Website 2](Screenshots/DoNight%20Website_2.png)
 
 ### Employees
-![Employees](Screenshots/employees.png)
+![Employees](Screenshots/Employee.png)
 
 ### Inventory
-![Inventory](Screenshots/inventory.png)
+![Inventory](Screenshots/Inventory.png)
 
 ### CRM
-![CRM](Screenshots/crm.png)
+![CRM](Screenshots/CRM.png)
 
-### Odoo Dashboard
-![Dashboard](Screenshots/dashboard.png)
+### Dashboard
+![Dashboard](Screenshots/Dashboard.png)
 
-### Odoo Dashboards
-![Dashboards](Screenshots/dashboards.png)
+### Dashboards
+![Dashboards](Screenshots/Dashboards.png)
+
 
 ## 📚 Key Learnings
 
