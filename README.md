@@ -71,10 +71,10 @@ The following screenshots document my practical work and exploration of the diff
 ![Accounting](Screenshots/Accounting.png)
 
 ### Purchase
-![Purchase](Screenshots/Puchase.png)
+![Purchase](Screenshots/Purchase.png)
 
 ### Employees
-![Employees](Screenshots/Employee.png)
+![Employees](Screenshots/Empolyee.png)
 
 ### Dashboards
 ![Dashboards](Screenshots/Dashboards.png)
