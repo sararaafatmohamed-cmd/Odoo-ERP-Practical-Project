@@ -47,23 +47,19 @@ The following screenshots document my practical work and exploration of the diff
 
 ## 📸 Project Screenshots
 
-### Accounting
-![Accounting](Screenshots/Accounting.png)
-
-### Purchase
-![Purchase](Screenshots/Puchase.png)
 
 ### DoNight Website
 ![DoNight Website](Screenshots/DoNight%20Website.png)
 
-### Sales
-![Sales](Screenshots/Saless.png)
 
 ### DoNight Website – Additional View
 ![DoNight Website 2](Screenshots/DoNight%20Website_2.png)
 
-### Employees
-![Employees](Screenshots/Employee.png)
+### Dashboard
+![Dashboard](Screenshots/Dashboard.png)
+
+### Sales
+![Sales](Screenshots/Saless.png)
 
 ### Inventory
 ![Inventory](Screenshots/Inventory.png)
@@ -71,8 +67,14 @@ The following screenshots document my practical work and exploration of the diff
 ### CRM
 ![CRM](Screenshots/CRM.png)
 
-### Dashboard
-![Dashboard](Screenshots/Dashboard.png)
+### Accounting
+![Accounting](Screenshots/Accounting.png)
+
+### Purchase
+![Purchase](Screenshots/Puchase.png)
+
+### Employees
+![Employees](Screenshots/Employee.png)
 
 ### Dashboards
 ![Dashboards](Screenshots/Dashboards.png)
